@@ -1,47 +1,46 @@
 # 👋 Hi, I'm Luca Parisi
 
 Welcome to my GitHub profile!  
-I'm a passionate **developer**, **problem solver**, and **lifelong learner** — always curious about how technology can make things better, faster, and smarter.
+I'm a **Software Engineer** who’s passionate about building reliable, scalable, and secure systems.  
+I love solving real-world problems through clean code, thoughtful design, and a constant curiosity for **Security** and **modern software architecture**.
 
 ---
 
 ## 🚀 About Me
-- 💻 I enjoy working with **JavaScript**, **TypeScript**, and **Python**
-- 🧠 I love exploring **software architecture**, **AI**, and **clean code**
-- ⚙️ Currently learning more about **backend systems** and **cloud infrastructure**
-- 🌍 Based in [your city or country]
-- 🎯 Goal: build software that’s not only functional but elegant and maintainable
+- 💻 Professional **Software Engineer** with a love for **Security** and **system design**
+- 🔐 Enthusiastic about **cybersecurity**, **vulnerability analysis**, and **secure coding practices**
+- 🧠 Always exploring **security and software engineering **
+- 🌍 Based in Naples
+- 🎯 Goal: build software that’s not only fast — but safe, maintainable, and meaningful
 
 ---
 
 ## 🧩 Tech Stack
 **Languages:** JavaScript / TypeScript / Python / Java  
-**Frontend:** React / Next.js / HTML / CSS / Tailwind  
-**Backend:** Node.js / Express / FastAPI  
+**Frontend:** Angular / React / Next.js / HTML / CSS / Tailwind  
+**Backend:** Springboot / Node.js / Express / FastAPI / NestJS
 **Databases:** PostgreSQL / MongoDB / Redis  
-**Tools & DevOps:** Git / Docker / CI/CD / Linux
 
 ---
 
-## 📂 Featured Projects
+<!--## 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧮 [Project Name](#) | A brief one-line description of what it does | React, Node.js |
-| 🤖 [Project Name](#) | Something cool or experimental | Python, FastAPI |
-| 🌐 [Project Name](#) | Web app or open source contribution | Next.js, MongoDB |
+| 🧮 [Project Name](#) | A modern web app with a secure backend architecture | React, Node.js |
+| 🔐 [Security Tool](#) | A small project exploring web vulnerabilities | Python, FastAPI |
+| ☁️ [Cloud Service](#) | Scalable API with containerized deployment | Docker, PostgreSQL |-->
 
 ---
 
-## 📫 Connect with Me
-- 🌐 [github.com/LucaParisi](https://github.com/LucaParisi)
-- 💼 [LinkedIn](#) *(add your link here)*
-- ✉️ [Email me](mailto:your@email.com)
+## 📊 GitHub Stats
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaParisi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaParisi&layout=compact&theme=tokyonight)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
 
-⭐️ **Thanks for visiting my profile!** Feel free to explore my repositories and connect with me.
+> “Security is not a product, but a process.” — *Bruce Schneier*  
+
 
 
 <!--
