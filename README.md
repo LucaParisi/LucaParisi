@@ -22,6 +22,9 @@ I'm a **Software Engineer** who loves to solve complex problems with the simplie
 ---
 
 ## 📊 GitHub Stats
+
+---
+
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaParisi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaParisi&layout=compact&theme=tokyonight)
 
