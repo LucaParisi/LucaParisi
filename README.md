@@ -6,7 +6,7 @@ I'm a **Software Engineer** who loves to solve complex problems with the simplie
 ---
 
 ## 🚀 About Me
-- 💻 Professional **Software Engineer**
+- 💻 **Software Engineer**
 - 🔐 Strong passion fo **cybersecurity**, **vulnerability analysis**, and **secure coding practices**
 - 🌍 Based in Naples
 - 🎯 Goal: build software that’s not only fast — but safe, maintainable, and meaningful
