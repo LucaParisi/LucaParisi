@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Luca Parisi
 
 Welcome to my GitHub profile!  
-I'm a **Software Engineer** who loves to solve complex problems with simpliest and cleanest code.
+I'm a **Software Engineer** who loves to solve complex problems with the simpliest and cleanest code.
 
 ---
 
