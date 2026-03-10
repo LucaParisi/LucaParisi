@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Luca Parisi
 
 Welcome to my GitHub profile!  
-I'm a **Software Engineer** who loves to solve complex problems with the simpliest and cleanest code.
+I'm a **Software Engineer** who loves to solve complex problems with simple logic code.
 
 ---
 
@@ -14,10 +14,10 @@ I'm a **Software Engineer** who loves to solve complex problems with the simplie
 ---
 
 ## 🧩 Tech Stack
-**Programming languages:** JavaScript / TypeScript / Python / Java  
-**Frontend:** Angular / React / Next.js / HTML / CSS / Tailwind  
-**Backend:** Springboot / Node.js / Express / Flask / NestJS
-**Databases:** PostgreSQL / MongoDB / Redis / OracleDB
+**Programming languages:** TypeScript / Java / Python / Dart  
+**Frontend:** Angular / React / Next.js / Tailwind  
+**Backend:** Springboot / NestJS / Express / Flask 
+**Databases:** PostgreSQL / MongoDB / OracleDB
 
 ---
 
