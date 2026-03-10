@@ -17,6 +17,7 @@ I'm a **Software Engineer** who loves to solve complex problems with simple logi
 **Programming languages:** TypeScript / Java / Python / Dart  
 **Frontend:** Angular / React / Next.js / Tailwind  
 **Backend:** Springboot / NestJS / Express / Flask
+
 **Databases:** PostgreSQL / MongoDB / OracleDB
 
 ---
